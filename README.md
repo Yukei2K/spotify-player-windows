@@ -1,3 +1,15 @@
+# Why I forked the repo:
+
+- The spotify_player is already available as executable by aome510.
+- Windows Terminal Preview now supports sixel.
+- Compiling aome510/spotify-player with sixel on windows results in error.
+- Thanks to ollbx for fixing the issue https://github.com/aome510/spotify-player/pull/638#issuecomment-2565505538
+
+So basically the idea is to use Windows Terminal Preview (available in winget) for sixel support.
+
+Feel free to contribute :D
+
+
 # spotify_player
 
 ## Table of Contents
