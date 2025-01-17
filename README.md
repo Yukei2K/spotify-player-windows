@@ -9,6 +9,10 @@ So basically the idea is to use Windows Terminal Preview (available in winget) f
 
 Feel free to contribute :D
 
+Screenshot:
+![Alt text](https://github.com/Yukei2K/spotify-player-windows/blob/master/assets/search.png
+ "Global Search")
+
 
 # spotify_player
 
